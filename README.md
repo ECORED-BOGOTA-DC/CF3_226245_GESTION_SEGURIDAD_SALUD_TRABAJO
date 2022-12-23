@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Valoración de riesgos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF3_226245_GESTION_SEGURIDAD_SALUD_TRABAJO/](https://ecored-sena.github.io/CF3_226245_GESTION_SEGURIDAD_SALUD_TRABAJO/)
 
 #
 
