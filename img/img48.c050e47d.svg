@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.999" height="59.999" viewBox="0 0 59.999 59.999">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.074" y1="0.148" x2="0.806" y2="0.831" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="numero-cuatro" transform="translate(-0.368 0.001)">
+    <path id="Trazado_677318" data-name="Trazado 677318" d="M30,0A30,30,0,1,1,0,30,30,30,0,0,1,30,0Z" transform="translate(0.368 -0.001)" fill="#465fc4"/>
+    <path id="Trazado_653911" data-name="Trazado 653911" d="M194,154.923l-23.612-23.612h-7.956l-9.6,23.11v1.466L172.4,175.458A30.086,30.086,0,0,0,194,154.923Z" transform="translate(-135.081 -116.201)" opacity="0.49" fill="url(#linear-gradient)"/>
+    <path id="Trazado_653912" data-name="Trazado 653912" d="M177.621,155.883h-2.707v5.383h-7.7v-5.383H152.834v-1.466l9.6-23.11h7.956l-7.42,17.864h4.791l1.758-6.6h5.4v6.6h2.707Z" transform="translate(-135.081 -116.197)" fill="#fff"/>
+  </g>
+</svg>
